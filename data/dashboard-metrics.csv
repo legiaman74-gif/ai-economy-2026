@@ -5,4 +5,4 @@ AI exposure distribution,High,206,0.2479,occupations,Relative AI exposure catego
 AI exposure distribution,Very high,206,0.2479,occupations,Relative AI exposure category
 High/Very high exposure outcomes,Growing,306,0.7427,occupations,Projected positive employment growth 2025-2035
 High/Very high exposure outcomes,Declining,100,0.2427,occupations,Projected negative employment growth 2025-2035
-High/Very high exposure outcomes,Essentially flat,6,0.0146,occupations,Near-zero projected employment change 2025-2035
+High/Very high exposure outcomes,0% projected change,6,0.0146,occupations,Exactly zero projected employment change 2025-2035
