@@ -11,7 +11,7 @@ The project first describes the distribution of BLS relative AI exposure categor
 - **Relative AI exposure:** BLS’s four-category classification of how occupations compare with one another based on theoretical and observed AI exposure measures.
 - **Projected employment growth:** BLS’s projected percentage change in employment from 2025 to 2035.
 - **Growing / declining:** A descriptive grouping based on the direction of the projected percentage change.
-- **Essentially flat:** A near-zero projected change; it is retained in headline counts but excluded from the binary growing-versus-declining comparison.
+- **0% projected change:** A exactly zero projected change; it is retained in headline counts but excluded from the binary growing-versus-declining comparison.
 
 ## Interpretation rules
 
