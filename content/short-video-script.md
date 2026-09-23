@@ -12,7 +12,7 @@
 
 **Voiceover:** “I analyzed 831 detailed U.S. occupations. Four hundred twelve were classified as having High or Very high relative AI exposure.”
 
-**On screen:** `306 projected to grow` / `100 projected to decline` / `6 essentially flat`
+**On screen:** `306 projected to grow` / `100 projected to decline` / `6 at 0% projected change`
 
 **Voiceover:** “But among those 412 occupations, 306 are projected to grow from 2025 to 2035. One hundred are projected to decline.”
 
