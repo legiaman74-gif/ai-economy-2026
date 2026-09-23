@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">AI Economy 2026 dashboard</title>
+  <desc id="desc">BLS relative AI exposure and 2025 to 2035 employment projections across 831 detailed U.S. occupations.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #172033; }
+    .title { font-size: 42px; font-weight: 700; }
+    .subtitle { font-size: 20px; fill: #586174; }
+    .panel { fill: #ffffff; stroke: #d9e0eb; stroke-width: 2; }
+    .panelTitle { font-size: 22px; font-weight: 700; }
+    .label { font-size: 18px; }
+    .value { font-size: 20px; font-weight: 700; }
+    .note { font-size: 16px; fill: #586174; }
+    .small { font-size: 15px; fill: #586174; }
+    .footer { font-size: 15px; fill: #586174; }
+  </style>
+  <rect width="1600" height="1000" fill="#f6f8fb"/>
+  <text x="80" y="76" class="title">AI Economy 2026</text>
+  <text x="80" y="110" class="subtitle">Relative AI exposure, occupational skills, and projected employment growth</text>
+  <text x="80" y="142" class="subtitle">831 detailed U.S. occupations • BLS 2025–2035 projections</text>
+
+  <rect x="80" y="190" width="700" height="320" rx="16" class="panel"/>
+  <text x="115" y="235" class="panelTitle">Relative AI exposure distribution</text>
+  <text x="115" y="264" class="note">Occupation counts; categories are relative to one another</text>
+  <text x="115" y="310" class="label">Low</text><rect x="260" y="287" width="426" height="28" rx="8" fill="#8fc7b4"/><text x="704" y="310" class="value">213</text>
+  <text x="115" y="360" class="label">Moderate</text><rect x="260" y="337" width="412" height="28" rx="8" fill="#72adc1"/><text x="690" y="360" class="value">206</text>
+  <text x="115" y="410" class="label">High</text><rect x="260" y="387" width="412" height="28" rx="8" fill="#4b79a8"/><text x="690" y="410" class="value">206</text>
+  <text x="115" y="460" class="label">Very high</text><rect x="260" y="437" width="412" height="28" rx="8" fill="#344e7a"/><text x="690" y="460" class="value">206</text>
+
+  <rect x="820" y="190" width="700" height="320" rx="16" class="panel"/>
+  <text x="855" y="235" class="panelTitle">What happens within High/Very high exposure?</text>
+  <text x="855" y="264" class="note">Projected employment outcome, 2025–2035 (n = 412)</text>
+  <rect x="855" y="300" width="490" height="48" rx="10" fill="#238b6a"/><text x="875" y="331" fill="#ffffff" style="font-family:Arial;font-size:19px;font-weight:700">Growing</text><text x="1312" y="331" fill="#ffffff" style="font-family:Arial;font-size:19px;font-weight:700">306 • 74.3%</text>
+  <rect x="855" y="370" width="160" height="48" rx="10" fill="#d46a6a"/><text x="875" y="401" fill="#ffffff" style="font-family:Arial;font-size:19px;font-weight:700">Declining</text><text x="1037" y="401" class="value">100 • 24.3%</text>
+  <rect x="855" y="440" width="30" height="48" rx="10" fill="#9ca8b8"/><text x="905" y="471" class="label">Essentially flat</text><text x="1100" y="471" class="value">6 • 1.5%</text>
+
+  <rect x="80" y="550" width="700" height="330" rx="16" class="panel"/>
+  <text x="115" y="595" class="panelTitle">Largest skill-score differences</text>
+  <text x="115" y="624" class="note">Average score: projected growth minus projected decline</text>
+  <text x="115" y="675" class="label">Science</text><rect x="395" y="652" width="270" height="24" rx="7" fill="#6b5ca5"/><text x="682" y="673" class="value">+0.623</text>
+  <text x="115" y="720" class="label">Critical &amp; analytical thinking</text><rect x="395" y="697" width="191" height="24" rx="7" fill="#6b5ca5"/><text x="603" y="718" class="value">+0.440</text>
+  <text x="115" y="765" class="label">Leadership</text><rect x="395" y="742" width="164" height="24" rx="7" fill="#6b5ca5"/><text x="576" y="763" class="value">+0.377</text>
+  <text x="115" y="810" class="label">Writing &amp; reading</text><rect x="395" y="787" width="129" height="24" rx="7" fill="#6b5ca5"/><text x="541" y="808" class="value">+0.296</text>
+  <text x="115" y="855" class="label">Problem solving &amp; decision making</text><rect x="395" y="832" width="128" height="24" rx="7" fill="#6b5ca5"/><text x="540" y="853" class="value">+0.294</text>
+
+  <rect x="820" y="550" width="700" height="330" rx="16" class="panel"/>
+  <text x="855" y="595" class="panelTitle">Skills most associated with projected growth</text>
+  <text x="855" y="624" class="note">Descriptive correlations in High/Very high exposure occupations</text>
+  <line x1="1190" y1="654" x2="1190" y2="850" stroke="#aab4c3" stroke-width="2"/>
+  <text x="855" y="675" class="label">Critical &amp; analytical thinking</text><circle cx="1450" cy="668" r="13" fill="#2d6a9f"/><text x="1475" y="675" class="value">0.508</text>
+  <text x="855" y="720" class="label">Problem solving &amp; decision making</text><circle cx="1410" cy="713" r="13" fill="#2d6a9f"/><text x="1435" y="720" class="value">0.439</text>
+  <text x="855" y="765" class="label">Writing &amp; reading</text><circle cx="1360" cy="758" r="13" fill="#2d6a9f"/><text x="1385" y="765" class="value">0.377</text>
+  <text x="855" y="810" class="label">Science</text><circle cx="1360" cy="803" r="13" fill="#2d6a9f"/><text x="1385" y="810" class="value">0.377</text>
+  <text x="855" y="855" class="label">Leadership</text><circle cx="1325" cy="848" r="13" fill="#2d6a9f"/><text x="1350" y="855" class="value">0.319</text>
+
+  <line x1="80" y1="920" x2="1520" y2="920" stroke="#d9e0eb" stroke-width="2"/>
+  <text x="80" y="952" class="footer">Source: U.S. Bureau of Labor Statistics AI exposure categories, Employment Projections, and Skills Data.</text>
+  <text x="80" y="976" class="footer">BLS AI exposure is relative exposure, not a measure of job loss or worker replacement. Skill results are descriptive associations.</text>
+</svg>
+
