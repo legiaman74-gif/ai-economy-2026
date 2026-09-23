@@ -23,7 +23,7 @@
 ## 4. Key evidence
 
 - 412 occupations are High/Very high relative AI exposure.
-- 306 of 412 are projected to grow; 100 decline; 6 are essentially flat.
+- 306 of 412 are projected to grow; 100 decline; 6 are at 0% projected change.
 - The largest mean skill difference is Science (+0.623).
 - The strongest correlation with projected growth is Critical & analytical thinking (0.508).
 
