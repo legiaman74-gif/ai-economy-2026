@@ -18,7 +18,7 @@ Of 412 occupations classified as **High** or **Very high** relative AI exposure:
 |---|---:|---:|
 | Growth | 306 | 74.3% |
 | Decline | 100 | 24.3% |
-| Essentially flat | 6 | 1.5% |
+| 0% projected change | 6 | 1.5% |
 
 The project therefore treats AI exposure and projected employment growth as separate measures.
 
