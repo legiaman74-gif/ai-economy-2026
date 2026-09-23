@@ -24,7 +24,7 @@ One row represents one detailed U.S. occupation in the 2025 National Employment 
 | Field or group | Definition |
 |---|---|
 | `high_ai_group` | Occupations categorized as High or Very high relative AI exposure. |
-| `outcome_direction` | Growing when projected employment change is positive; declining when negative; essentially flat when near zero. |
+| `outcome_direction` | Growing when projected employment change is positive; declining when negative; at 0% projected change when near zero. |
 | `core_skill_set` | Critical & analytical thinking, problem solving & decision making, science, leadership, and writing & reading. This is an analytical construct, not a BLS score. |
 | `core_skill_index` | Equal-weight composite of the five core skills used in earlier exploratory analysis. It is not a causal index or a career ranking. |
 | `mean_difference_growing_minus_declining` | Average skill score among growing high-AI occupations minus the corresponding average among declining high-AI occupations. |
