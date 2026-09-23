@@ -55,9 +55,6 @@ Employment projections cover **2025–2035** and reflect BLS’s long-term proje
 - [BLS detailed skills data](https://www.bls.gov/emp/data/skills-data.htm)
 - [BLS 2025–2035 employment projections summary](https://www.bls.gov/news.release/ecopro.nr0.htm)
 
-## Reproduce or publish
-
-The data exports in this repository are publication-ready summaries of the Step 12 analysis. For a full reproduction, retain the original BLS workbooks, join on the 2025 National Employment Matrix occupation code, and follow the methodology document. Before publishing, add the final dashboard images or a hosted dashboard link to this README.
 
 ## Dashboard
 
